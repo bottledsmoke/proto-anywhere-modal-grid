@@ -1,12 +1,8 @@
 {
-  "name": "react-typescript",
+  "name": "anywhere-modal-grid",
   "version": "1.0.0",
-  "description": "React and TypeScript example starter project",
-  "keywords": [
-    "typescript",
-    "react",
-    "starter"
-  ],
+  "description": "one man experiments with modals for far too much time.",
+  "keywords": ["typescript", "react", "starter"],
   "main": "src/index.tsx",
   "dependencies": {
     "@react-spring/web": "9.2.3",
@@ -27,10 +23,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
 }
