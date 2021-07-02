@@ -1,2 +1,3 @@
-# proto-anywhere-modal-grid
-Created with CodeSandbox
+# Anywhere Modal Grid
+
+Fill your life with modals.
